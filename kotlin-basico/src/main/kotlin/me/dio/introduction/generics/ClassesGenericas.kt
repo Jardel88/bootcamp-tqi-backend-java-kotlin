@@ -1,4 +1,4 @@
-package me.dio.generics
+package me.dio.introduction.generics
 
 class MutableStack<E>(vararg items: E) { // Define uma classe genérica MutableStack<E>onde Eé chamado de parâmetro de tipo genérico
 

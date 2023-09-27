@@ -1,4 +1,4 @@
-package me.dio.generics
+package me.dio.introduction.generics
 
 fun <E> mutableStackOf(vararg elements: E) = MutableStack(*elements) //funçãogenerica para criação de pilhas
 

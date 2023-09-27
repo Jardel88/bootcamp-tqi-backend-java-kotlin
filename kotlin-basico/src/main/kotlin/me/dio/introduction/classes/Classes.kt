@@ -1,4 +1,4 @@
-package me.dio.classes
+package me.dio.introduction.classes
 
 class Customer                                  // Declaração simples de classe, sem passagem de parâmetros
 
