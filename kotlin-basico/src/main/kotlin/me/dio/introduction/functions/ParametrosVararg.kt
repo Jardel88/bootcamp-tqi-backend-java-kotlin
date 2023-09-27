@@ -1,4 +1,4 @@
-package me.dio.functions
+package me.dio.introduction.functions
 
 fun main() {
 

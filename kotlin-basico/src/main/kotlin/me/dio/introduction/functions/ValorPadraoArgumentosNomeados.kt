@@ -1,4 +1,4 @@
-package me.dio.functions
+package me.dio.introduction.functions
 
 fun printMessage(message: String): Unit {  //Função que recebe parâmetro e não tem retorno equivalente ao void do java
     println(message)                       //Unit é implícito não precisa ser declarado

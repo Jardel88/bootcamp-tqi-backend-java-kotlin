@@ -1,4 +1,4 @@
-package me.dio.variaveis
+package me.dio.introduction.variaveis
 
 fun main() {
     var a: String = "initial"  // Variavel mutável
