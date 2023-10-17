@@ -1,0 +1,1 @@
+![Explorando Padrões de Projetos na Prática com Java](https://github.com/Jardel88/bootcamp-tqi-backend-java-kotlin/assets/85203206/82ba454e-9b83-4c13-99fd-817ff840fcc5)
